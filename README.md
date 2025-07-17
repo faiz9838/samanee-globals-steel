@@ -1,0 +1,1 @@
+# Samanee-Globals
