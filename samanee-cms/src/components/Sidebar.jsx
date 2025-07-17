@@ -14,17 +14,12 @@ import { Link as RouterLink } from "react-router-dom";
 import {
     ClassOutlined,
     SubjectOutlined,
-    NotesOutlined,
-    PublicOutlined,
-    SubscriptionsOutlined,
-    PaymentOutlined,
-    SettingsOutlined,
+
     ExpandLess,
     ExpandMore,
     PasswordOutlined,
     InfoOutlined,
-    FeedbackOutlined,
-    ContactMailOutlined,
+
     Announcement,
     ProductionQuantityLimits,
     DesignServices,
