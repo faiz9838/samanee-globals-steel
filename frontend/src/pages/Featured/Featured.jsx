@@ -8,7 +8,7 @@ import {
 
 } from '@mui/material';
 
-import { fetchProductCategories } from '../../api/productCategory';
+import { fetchProductCategories } from '../../api/ProductCategory/ProductCategoryApi';
 import Testimonials from '../../section/Testimonials/Testimonials';
 import ProductCategory from '../../section/Products/Category/ProductCategory';
 import WhyChooseUs from '../../components/WhyChooseUs';
