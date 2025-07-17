@@ -15,7 +15,7 @@ const ProductList = () => {
                 const data = Array.isArray(response) ? response : response?.data || [];
                 setCategories(data);
             } catch (error) {
-                console.error("Error fetching categories:", error);
+                console.error("Error fetching categoriess:", error);
                 setError(error.message || "Error fetching categories");
             } finally {
                 setLoading(false);
