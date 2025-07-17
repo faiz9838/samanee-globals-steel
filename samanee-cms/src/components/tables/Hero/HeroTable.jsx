@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchHero, addHero, updateHero, deleteHero } from '../../../redux/Hero/hero.thunk';
+import { fetchHero, addHero, updateHero, deleteHero } from '@redux/Hero/hero.thunk';
 import {
     Table, TableBody, TableCell, TableContainer, TableHead, TableRow,
     Paper, CircularProgress, Typography, Button, TextField, Box,
